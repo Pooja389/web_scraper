@@ -31,4 +31,7 @@ pip install selenium
 ##  Run the script
 ```bash
 python web_scraper.py
+```
 
+## python anywhere
+use python anywhere to run the code automatically daily ,so that it checks if price is in the range and send email
