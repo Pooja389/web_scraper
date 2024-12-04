@@ -30,5 +30,5 @@ pip install selenium
 ```
 ##  Run the script
 ```bash
-python web_scraper.py```
+python web_scraper.py
 
