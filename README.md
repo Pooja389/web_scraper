@@ -21,8 +21,8 @@ This Python script uses Selenium to track the price of a product on Amazon. If t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/amazon-price-tracker.git
-   cd amazon-price-tracker```
+   git clone https://github.com/Pooja389/web_scraper.git
+   cd web_scraper```
    
 ## Install required python packages
 ```bash
@@ -30,6 +30,5 @@ pip install selenium
 ```
 ##  Run the script
 ``bash
-python web_scraper.py
-```
+python web_scraper.py```
 
