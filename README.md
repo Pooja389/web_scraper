@@ -35,3 +35,7 @@ python web_scraper.py
 
 ## python anywhere
 use python anywhere to run the code automatically daily ,so that it checks if price is in the range and send email
+
+## license 
+This project is licensed under the MIT License. Feel free to use and modify it.
+
