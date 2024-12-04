@@ -11,12 +11,12 @@ price = int(price.text)
 print(price)
 
 if price < 500 :
-    my_email = "p8114394@gmail.com"
-    password = "fcux wvsp zgij pdps"
+    my_email = "my_email"
+    password = "my_app_pass"
     connection = smtplib.SMTP("smtp.gmail.com",587)
     connection.starttls()
     connection.login(my_email,password=password)
-    connection.sendmail(from_addr=my_email,to_addrs="p1219513@gmil.com",msg="go buy\nyour sandle it is below 500 \n grab it")
+    connection.sendmail(from_addr=my_email,to_addrs="other_email",msg="go buy\nyour sandle it is below 500 \n grab it")
     connection.close()
 
 input()
