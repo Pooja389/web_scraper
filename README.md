@@ -29,6 +29,6 @@ This Python script uses Selenium to track the price of a product on Amazon. If t
 pip install selenium
 ```
 ##  Run the script
-``bash
+```bash
 python web_scraper.py```
 
